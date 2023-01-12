@@ -1,0 +1,20 @@
+@charset "utf-8";
+:root{
+    --color1 : #56A394;
+    --color2 : #AFF0E3;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+header{
+    background: linear-gradient(var(--color1),var(--color2));
+    padding: 5em;
+    margin: auto;
+    text-align: center;
+    
+    
+}
