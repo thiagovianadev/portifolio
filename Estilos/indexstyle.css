@@ -2,6 +2,9 @@
 :root{
     --color1 : #56A394;
     --color2 : #AFF0E3;
+    --color3 : #EFC0AF;
+    --color4 : #FFDFD4;
+    --color5 : #A37767;
 }
 *{
     margin: 0px;
